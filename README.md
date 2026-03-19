@@ -29,10 +29,10 @@ KMeans produced more stable and interpretable clusters compared to DBSCAN, indic
 ## 📈 Visualizations
 
 ### KMeans Clustering
-![KMeans](images/kmeans.png)
+![KMeans](images)
 
 ### DBSCAN Clustering
-![DBSCAN](images/dbscan.png)
+![DBSCAN](images)
 
 ---
 
